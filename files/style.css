@@ -1,6 +1,13 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: rgb(91, 81, 161);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    box-shadow: 0 5px 15px -5px #313131;
+    color: rgb(241, 241, 241);
 }
 .center{
     position: absolute;
@@ -13,11 +20,11 @@ body{
     display: inline-block;
     width: 90px;
     height: 90px;
-    background: #f1f1f1;
+    background: #202020;
     margin: 10px;
-    border-radius: 30%;
-    box-shadow: 0 5px 15px -5px #00000070;
-    color: #3498db;
+    border-radius: 10%;
+    box-shadow: 0 5px 15px -5px #313131;
+    color: #f5f5f5;
     overflow: hidden;
     position: relative;
 }
@@ -28,32 +35,27 @@ body{
 }
 .btn:hover i{
     transform: scale(1.4);
-    color: #f1f1f1;
+    color: #202020;
 }
 .btn::before{
     content: " ";
     position: absolute;
     width: 120%;
     height: 120%;
-    background: #3498db;
-    transform: rotate(45deg);
-    left: -110%;
-    top: 90%;
+    background: #f5f5f5;
+    top: 100%;
 }
 .btn:hover::before{
-    animation: aaa 0.7s 1;
+    animation: aaa 1s 1;
     top: -10%;
     left: -10%;
 }
 @keyframes aaa{
     0%{
-        left: -110%;
         top: 90%;
     }50%{
-        left: 10%;
-        top: -30%;
+        top: -5%;
     }100%{
-        left: -10%;
         top: -10%;
     }
 }
