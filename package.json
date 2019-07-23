@@ -1,0 +1,21 @@
+{
+  "name": "csitensprice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csgo-market": "^1.5.2",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "get-closest": "0.0.4",
+    "levenshtein": "^1.0.5",
+    "q": "^1.5.1",
+    "qs": "^6.6.0",
+    "request": "^2.88.0"
+  }
+}
