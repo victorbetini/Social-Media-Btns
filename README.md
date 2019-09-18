@@ -1,7 +1,7 @@
-# Animated Social Media Buttons
-HTML5 and CSS3 simple social media buttons
+# HTML5 & CSS3 Animated Social Media Buttons
 
-![](https://raw.githubusercontent.com/victorcesca/Social-Media-btns-Animation/master/SocialMediaButtons.png?token=AKCNJMAAKAD4TJVQYQ2GY7C5G42JU)
+---
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+![](https://i.imgur.com/STuLU6E.png)
+
+#### Feel free to use!
