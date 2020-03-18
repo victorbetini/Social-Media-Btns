@@ -4,4 +4,4 @@
 
 ![](https://i.imgur.com/STuLU6E.png)
 
-#### Feel free to use!
+#### Feel free to use and modify!
